@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myFirstPlugin1", "myFirstPlugin1\myFirstPlugin1.csproj", "{B2009EDA-74B8-45DA-8C34-B35A9B94A3B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2009EDA-74B8-45DA-8C34-B35A9B94A3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2009EDA-74B8-45DA-8C34-B35A9B94A3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2009EDA-74B8-45DA-8C34-B35A9B94A3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2009EDA-74B8-45DA-8C34-B35A9B94A3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E6DEEEB-B26D-4841-8D32-22AB7322FC6E}
+	EndGlobalSection
+EndGlobal

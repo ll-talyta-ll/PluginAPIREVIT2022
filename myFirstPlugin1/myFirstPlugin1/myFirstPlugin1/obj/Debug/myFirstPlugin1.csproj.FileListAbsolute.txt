@@ -1,0 +1,7 @@
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\bin\Debug\myFirstPlugin1.dll
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\bin\Debug\myFirstPlugin1.pdb
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\obj\Debug\myFirstPlugin1.csproj.AssemblyReference.cache
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\obj\Debug\myFirstPlugin1.g.resources
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\obj\Debug\myFirstPlugin1.csproj.CoreCompileInputs.cache
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\obj\Debug\myFirstPlugin1.dll
+C:\Users\Talyta\source\repos\myFirstPlugin1\myFirstPlugin1\myFirstPlugin1\obj\Debug\myFirstPlugin1.pdb

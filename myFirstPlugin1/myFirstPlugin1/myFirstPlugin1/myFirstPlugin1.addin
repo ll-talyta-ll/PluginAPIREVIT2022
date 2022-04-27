@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name> My First Plugin 1</Name>
+		<Assembly>myFirstPlugin1.dll</Assembly>
+		<AddInId>8AAFF920-1E67-4B60-BA50-B9C5BF4F2006</AddInId>
+		<FullClassName>myFirstPlugin1.Application</FullClassName>
+		<VendorId>Jacobian Dev</VendorId>
+		<VendorDescription>https://github.com/MjMthimunye</VendorDescription>
+	</AddIn>
+</RevitAddIns>
